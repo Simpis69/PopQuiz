@@ -1,0 +1,14 @@
+C:\Users\leonard.wegmannsimo\Desktop\programer\PopQuiz\PopQuiz\obj\Debug\net7.0\PopQuiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonard.wegmannsimo\Desktop\programer\PopQuiz\PopQuiz\obj\Debug\net7.0\PopQuiz.AssemblyInfoInputs.cache
+C:\Users\leonard.wegmannsimo\Desktop\programer\PopQuiz\PopQuiz\obj\Debug\net7.0\PopQuiz.AssemblyInfo.cs
+C:\Users\leonard.wegmannsimo\Desktop\programer\PopQuiz\PopQuiz\obj\Debug\net7.0\PopQuiz.csproj.CoreCompileInputs.cache
+C:\Users\leonard.wegmannsimo\Desktop\programer\PopQuiz\PopQuiz\bin\Debug\net7.0\PopQuiz.exe
+C:\Users\leonard.wegmannsimo\Desktop\programer\PopQuiz\PopQuiz\bin\Debug\net7.0\PopQuiz.deps.json
+C:\Users\leonard.wegmannsimo\Desktop\programer\PopQuiz\PopQuiz\bin\Debug\net7.0\PopQuiz.runtimeconfig.json
+C:\Users\leonard.wegmannsimo\Desktop\programer\PopQuiz\PopQuiz\bin\Debug\net7.0\PopQuiz.dll
+C:\Users\leonard.wegmannsimo\Desktop\programer\PopQuiz\PopQuiz\bin\Debug\net7.0\PopQuiz.pdb
+C:\Users\leonard.wegmannsimo\Desktop\programer\PopQuiz\PopQuiz\obj\Debug\net7.0\PopQuiz.dll
+C:\Users\leonard.wegmannsimo\Desktop\programer\PopQuiz\PopQuiz\obj\Debug\net7.0\refint\PopQuiz.dll
+C:\Users\leonard.wegmannsimo\Desktop\programer\PopQuiz\PopQuiz\obj\Debug\net7.0\PopQuiz.pdb
+C:\Users\leonard.wegmannsimo\Desktop\programer\PopQuiz\PopQuiz\obj\Debug\net7.0\PopQuiz.genruntimeconfig.cache
+C:\Users\leonard.wegmannsimo\Desktop\programer\PopQuiz\PopQuiz\obj\Debug\net7.0\ref\PopQuiz.dll
